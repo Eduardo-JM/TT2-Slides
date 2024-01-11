@@ -1,0 +1,40 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Math conditions
+
+% Usage
+%\begin{conditions} key & description \end{conditions}
+\newenvironment{conditions}
+  {\par\vspace{\abovedisplayskip}\noindent\begin{tabular}{>{$}l<{$} @{${}:{}$} l}}
+  {\end{tabular}\par\vspace{\belowdisplayskip}}
+
+% Usage
+%\begin{conditions*} key & symbol & description \end{conditions*}
+
+\newenvironment{conditions*}
+  {\par\vspace{\abovedisplayskip}\noindent
+   \tabularx{\columnwidth}{>{$}l<{$} @{}>{${}}c<{{}$}@{} >{\raggedright\arraybackslash}X}}
+  {\endtabularx\par\vspace{\belowdisplayskip}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Table
+
+% tabularray permite envolver el contenido de una
+% celda en un comando o environment. Este comando
+% se usa para celdas que incluyen tikz como parte de
+% su contenido. Véase la metodología para un ejemplo de uso
+
+% To create cells wrapped by commands
+\NewDocumentCommand{\adjusttikzpic}{m}{%
+  \adjustbox{valign=m}{%
+  	\inputtikz{#1}
+  }
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Math
+\NewDocumentCommand{\percent}{m}{%
+	\qty{#1}{\percent}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

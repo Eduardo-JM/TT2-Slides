@@ -1,0 +1,36 @@
+\documentclass[
+	xcolor={table},
+	aspectratio=1610,
+	18pt,
+	hyperref={implicit}]{beamer}
+\usetheme{Frankfurt}
+\usefonttheme{professionalfonts}
+
+\input{Preamble/Preamble.tex}
+
+\begin{document}
+	
+	\frame[plain, noframenumbering]{\titlepage}
+	
+	\input{Preamble/Agradecimientos.tex}
+	
+	\begin{frame}[noframenumbering]
+		\frametitle{Agenda}
+		\tableofcontents[hideallsubsections]
+	\end{frame}	
+	
+%	\input{Content/Introducción.tex}
+	\input{Content/Planteamiento-del-problema.tex}
+	\input{Content/Justificación.tex}
+	\input{Content/Objetivos.tex}	
+	\input{Content/Antecedentes.tex}
+	\input{Content/Diseño-experimental.tex}
+	\input{Content/Resultados.tex}
+%	\input{Content/Recapitulación.tex}
+	
+	\begin{frame}[allowframebreaks]
+		\frametitle{Referencias}
+		\printbibliography
+	\end{frame}
+	
+\end{document}

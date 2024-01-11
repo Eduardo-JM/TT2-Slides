@@ -1,0 +1,14 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'build/Presentacion.blg'
+[77] biber:340> INFO - === dom jun 11, 2023, 18:34:31
+[90] Biber.pm:418> INFO - Reading 'build/Presentacion.bcf'
+[161] Biber.pm:978> INFO - Found 6 citekeys in bib section 0
+[175] Biber.pm:4401> INFO - Processing section 0
+[185] Biber.pm:4592> INFO - Looking for bibtex file 'Bib/References.bib' for section 0
+[188] bibtex.pm:1713> INFO - LaTeX decoding ...
+[274] bibtex.pm:1518> INFO - Found BibTeX data source 'Bib/References.bib'
+[346] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[346] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[346] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[354] bbl.pm:654> INFO - Writing 'build/Presentacion.bbl' with encoding 'UTF-8'
+[358] bbl.pm:757> INFO - Output to build/Presentacion.bbl

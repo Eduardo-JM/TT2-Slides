@@ -1,0 +1,316 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{naciones_unidas_sustainable_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{hash=289d6d295de5d9f9e01197fab2b80b67}{%
+           family={{Naciones Unidas}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{289d6d295de5d9f9e01197fab2b80b67}
+      \strng{fullhash}{289d6d295de5d9f9e01197fab2b80b67}
+      \strng{bibnamehash}{289d6d295de5d9f9e01197fab2b80b67}
+      \strng{authorbibnamehash}{289d6d295de5d9f9e01197fab2b80b67}
+      \strng{authornamehash}{289d6d295de5d9f9e01197fab2b80b67}
+      \strng{authorfullhash}{289d6d295de5d9f9e01197fab2b80b67}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{spanish}
+      \field{shorttitle}{Sustainable Development Goal 6}
+      \field{title}{Sustainable Development Goal 6: Agua limpia y saneamiento {|} Naciones Unidas en México}
+      \field{titleaddon}{Los Objetivos de Desarrollo Sostenible en México / Agua limpia y saneamiento}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://mexico.un.org/es/sdgs/6
+      \endverb
+      \verb{url}
+      \verb https://mexico.un.org/es/sdgs/6
+      \endverb
+    \endentry
+    \entry{national_aeronautics_and_space_administration_sequigeneralizada_2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=72f826272be1a819ed284b8ed8310d76}{%
+           family={{National Aeronautics and Space Administration}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{72f826272be1a819ed284b8ed8310d76}
+      \strng{fullhash}{72f826272be1a819ed284b8ed8310d76}
+      \strng{bibnamehash}{72f826272be1a819ed284b8ed8310d76}
+      \strng{authorbibnamehash}{72f826272be1a819ed284b8ed8310d76}
+      \strng{authornamehash}{72f826272be1a819ed284b8ed8310d76}
+      \strng{authorfullhash}{72f826272be1a819ed284b8ed8310d76}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{6}
+      \field{langid}{spanish}
+      \field{month}{5}
+      \field{title}{Sequía generalizada en México {|} Ciencia de la {NASA}}
+      \field{titleaddon}{Sequía generalizada en México}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2022}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ciencia.nasa.gov/sequia-generalizada-en-mexico
+      \endverb
+      \verb{url}
+      \verb https://ciencia.nasa.gov/sequia-generalizada-en-mexico
+      \endverb
+    \endentry
+    \entry{maddocks_ranking_2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e6e8fa7dc43706c78c0f14e4b095f7fb}{%
+           family={Maddocks},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=85803b42ec013f88e9918220554145e4}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Robert\bibnamedelima Samuel},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=71cd75f1ea2aa8585eef92ee9f6f929c}{%
+           family={Reig},
+           familyi={R\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{2989b8901034b7b85fa20234c0e424d4}
+      \strng{fullhash}{2989b8901034b7b85fa20234c0e424d4}
+      \strng{bibnamehash}{2989b8901034b7b85fa20234c0e424d4}
+      \strng{authorbibnamehash}{2989b8901034b7b85fa20234c0e424d4}
+      \strng{authornamehash}{2989b8901034b7b85fa20234c0e424d4}
+      \strng{authorfullhash}{2989b8901034b7b85fa20234c0e424d4}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Globally, changing water supply and demand is inevitable; what that change will look like is far from certain. A first-of-its-kind analysis sheds new light on the issue.}
+      \field{day}{26}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{title}{Ranking the World’s Most Water-Stressed Countries in 2040}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2022}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.wri.org/insights/ranking-worlds-most-water-stressed-countries-2040
+      \endverb
+      \verb{url}
+      \verb https://www.wri.org/insights/ranking-worlds-most-water-stressed-countries-2040
+      \endverb
+    \endentry
+    \entry{palomino-resendiz_design_2018}{article}{}
+      \name{author}{5}{}{%
+        {{hash=3b21e2cc6fb52a63ef2876a459d14599}{%
+           family={Palomino-Resendiz},
+           familyi={P\bibinithyphendelim R\bibinitperiod},
+           given={S.\bibnamedelimi I.},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=f36093be607de04b20f51f2ef477f212}{%
+           family={Flores-Hernández},
+           familyi={F\bibinithyphendelim H\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=76677275abacca01631234b56961c408}{%
+           family={Lozada-Castillo},
+           familyi={L\bibinithyphendelim C\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7dec698c57aea9040246e4ed18cb5aa9}{%
+           family={Guzmán-Vargas},
+           familyi={G\bibinithyphendelim V\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fdedfc590ba61342538e00e17fd346db}{%
+           family={Luviano-Juárez},
+           familyi={L\bibinithyphendelim J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{e77f10cbb420f8062c0bc589e826cd1a}
+      \strng{fullhash}{d889c7d9ff7a625eb9115b2462cbc568}
+      \strng{bibnamehash}{d889c7d9ff7a625eb9115b2462cbc568}
+      \strng{authorbibnamehash}{d889c7d9ff7a625eb9115b2462cbc568}
+      \strng{authornamehash}{e77f10cbb420f8062c0bc589e826cd1a}
+      \strng{authorfullhash}{d889c7d9ff7a625eb9115b2462cbc568}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{issn}{0196-8904}
+      \field{journaltitle}{Energy Conversion and Management}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{shortjournal}{Energy Conversion and Management}
+      \field{title}{Design and implementation of a robotic active solar distiller based on a Fresnel concentrator and a photovoltaic system}
+      \field{urlday}{18}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
+      \field{volume}{166}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{637\bibrangedash 647}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.enconman.2018.04.069
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0196890418304175
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0196890418304175
+      \endverb
+      \keyw{Desalination,Fresnel lens,Photovoltaic system,Robotic solar distiller,Solar energy}
+    \endentry
+    \entry{jobrane_theoretical_2022}{article}{}
+      \name{author}{6}{}{%
+        {{hash=6109c0e78660b81c3618c5f5f88568e4}{%
+           family={Jobrane},
+           familyi={J\bibinitperiod},
+           given={Mariem},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7c022a04a3ffcfc2bc057da1f8318b7a}{%
+           family={Kopmeier},
+           familyi={K\bibinitperiod},
+           given={Achim},
+           giveni={A\bibinitperiod}}}%
+        {{hash=98f50a2c2d60e61cd838c3b176da40e5}{%
+           family={Kahn},
+           familyi={K\bibinitperiod},
+           given={Aliza},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b6eb8f1a8d914ce0e206fcad4802c9a7}{%
+           family={Cauchie},
+           familyi={C\bibinitperiod},
+           given={Henry-Michel},
+           giveni={H\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=688e0cea3a519869c29627d8985c8f65}{%
+           family={Kharroubi},
+           familyi={K\bibinitperiod},
+           given={Adel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=966c477a417c9961d8e60029b3e9b4bd}{%
+           family={Penny},
+           familyi={P\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f302901bbaccf55c217f6016b29b6a7a}
+      \strng{fullhash}{d95626c6a297ff8ea122f9cccde16070}
+      \strng{bibnamehash}{d95626c6a297ff8ea122f9cccde16070}
+      \strng{authorbibnamehash}{d95626c6a297ff8ea122f9cccde16070}
+      \strng{authornamehash}{f302901bbaccf55c217f6016b29b6a7a}
+      \strng{authorfullhash}{d95626c6a297ff8ea122f9cccde16070}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{issn}{1359-4311}
+      \field{journaltitle}{Applied Thermal Engineering}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{shortjournal}{Applied Thermal Engineering}
+      \field{title}{Theoretical and experimental investigation on a novel design of wick type solar still for sustainable freshwater production}
+      \field{urlday}{29}
+      \field{urlmonth}{5}
+      \field{urlyear}{2022}
+      \field{volume}{200}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{117648}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.applthermaleng.2021.117648
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1359431121010747
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1359431121010747
+      \endverb
+      \keyw{Condensation process,Efficiency,Freshwater,Solar energy,Solar still}
+    \endentry
+    \entry{ramirez_intensificacion_2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b82f3ef27a10888bb885ac07e7d1363d}{%
+           family={Ramírez},
+           familyi={R\bibinitperiod},
+           given={José\bibnamedelima Luís},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{b82f3ef27a10888bb885ac07e7d1363d}
+      \strng{fullhash}{b82f3ef27a10888bb885ac07e7d1363d}
+      \strng{bibnamehash}{b82f3ef27a10888bb885ac07e7d1363d}
+      \strng{authorbibnamehash}{b82f3ef27a10888bb885ac07e7d1363d}
+      \strng{authornamehash}{b82f3ef27a10888bb885ac07e7d1363d}
+      \strng{authorfullhash}{b82f3ef27a10888bb885ac07e7d1363d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{25}
+      \field{issn}{2619-6581}
+      \field{journaltitle}{Avances Investigación en Ingeniería}
+      \field{langid}{spanish}
+      \field{month}{12}
+      \field{note}{Number: 1}
+      \field{number}{1}
+      \field{title}{Intensificación de la transferencia de calor en ebullición convectiva}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2022}
+      \field{volume}{15}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{86\bibrangedash 102}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.18041/1794-4953/avances.1.1327
+      \endverb
+      \verb{urlraw}
+      \verb https://revistas.unilibre.edu.co/index.php/avances/article/view/1327
+      \endverb
+      \verb{url}
+      \verb https://revistas.unilibre.edu.co/index.php/avances/article/view/1327
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

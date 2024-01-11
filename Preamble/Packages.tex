@@ -1,0 +1,113 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Document configuration
+\usepackage[english,spanish,es-tabla]{babel}
+\usepackage{ifthen}
+\usepackage{ragged2e}
+\usepackage{appendixnumberbeamer}
+\usepackage{lastpage}	
+\usepackage{multicol}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Fonts, encoding & Color
+\usepackage{fontspec}
+%\usepackage{titlesec}
+
+\usepackage[shortlabels]{enumitem}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Math & chem
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{siunitx}
+\usepackage{xfrac}
+\usepackage[
+	modules={reactions,formula,redox,charges}
+]{chemmacros}[2022/03/11]
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Figures & tables
+
+\usepackage{graphicx}
+\usepackage[justification=centering]{caption}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{wrapfig}
+
+\usepackage{tabularray}
+\UseTblrLibrary{varwidth}
+\UseTblrLibrary{siunitx}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Drawings & shapes
+
+\usepackage{tikz}
+\usetikzlibrary{
+	shapes.geometric,
+	positioning,
+	arrows.meta,
+	calc,
+	patterns,
+	patterns.meta,
+	shadows,
+	matrix
+}
+
+\usetikzlibrary{external}
+\tikzexternalize
+
+\tikzset{%
+	external/system call={%
+		xelatex \tikzexternalcheckshellescape --output-directory ./build -halt-on-error -interaction=batchmode -jobname "\image" "\texsource"%
+	},
+	/pgf/images/include external/.code={%
+		\includegraphics{build/#1}%
+	}
+}
+
+\usepackage[most]{tcolorbox}
+\tcbuselibrary{raster}
+\tcbuselibrary{breakable}
+%\tcbuselibrary{external}
+%\tcbset{external/prefix=Boxes/}
+%\tcbEXTERNALIZE
+
+\usepackage[edges,external]{forest}
+\usepackage{chemplants}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Bibliography, glossary & refs
+
+%\usepackage[spanish]{cleveref}
+\usepackage[
+	toc,
+	acronym,
+	translate = true,
+	nonumberlist
+]{glossaries}
+\usepackage{glossary-mcols}
+
+\usepackage[
+	thresholdtype=words
+]{csquotes}
+
+\usepackage[
+	backend=biber,
+	style=ieee,
+	url=false,
+	hyperref=true,
+]{biblatex}
+
+\usepackage{xurl}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% utils
+
+\usepackage{adjustbox}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
