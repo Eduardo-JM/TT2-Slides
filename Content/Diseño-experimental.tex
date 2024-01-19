@@ -1,73 +1,4 @@
-\section{Diseño-experimental}
-
-	\subsection{Grupos de estudio}
-
-	\begin{frame}
-	    \frametitle{Grupos de estudio}
-	    \vspace*{2mm}
-	    \textbf{\large Agua}\\[5mm]  
-	    
-	    Las muestras de agua se seleccionaron guiándose en la clasificación propuesta por la \acrfull{wqa}. Se proponen 3 grupos para evaluar los casos límite y promedio de la salinidad del agua de mar.
-	      
-	    \begin{longtblr}[
-			caption = {Grupo de control del agua de mar},
-			label = {table:grupo-control-agua}
-		]{
-			colspec = {X[c] X[2, c]},
-			hlines,
-			vlines,
-			width = 0.5\linewidth,
-			rowhead = 1,
-			row{odd} = {bg=tablerowblue},
-			row{1} = {
-				bg = tabletitleblue,
-				fg=white,
-				font = \bfseries,
-				halign=c
-			},
-			rows={m}
-		}
-			Muestra & Salinidad (\unit{\mg\per\litre})\\
-			1 & \num{30000}\\
-			2 & \num{35000}\\
-			3 & \num{40000}
-		\end{longtblr}
-	\end{frame}
-	
-	\begin{frame}
-	    \frametitle{Lugar físico de experimentación}
-	    \vspace*{2mm}
-	    
-	    Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas ubicada en la Ciudad de México.
-			
-			\begin{longtblr}[
-				caption = {Grupo de control del agua de mar},
-				label = {table:grupo-control-fisico}
-			]{
-				colspec = {X[c] *{3}{c}},
-				hlines,
-				vlines,
-				width = 0.8\linewidth,
-				rowhead = 1,
-				row{odd} = {bg=tablerowblue},
-				row{1} = {
-					bg = tabletitleblue,
-					fg=white,
-					font = \bfseries,
-					halign=c
-				},
-				rows={m}
-			}
-				Zona & Longitud & Latitud & Altitud\\
-				Ciudad de México, México
-					& \ang{-99;07;32}
-					& \ang{19;30;38}
-					& \qty{2241}{\m}
-			\end{longtblr}
-	    
-	\end{frame}
-	
-	
+\section{Solución planteada}
 		
 	\subsection{Propuesta de diseño}
 	\begin{frame}
@@ -159,4 +90,27 @@
     			]{Resultados/Simulaciones/FuzzyUniverse.png}
     			\caption{Simulaciones posteriores para determinar el universo de discurso del control difuso}
   		\end{figure}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Simulaciones}
+		\vspace*{2mm}
+		\begin{columns}
+	    		\begin{column}{0.5\linewidth}
+	    			\begin{figure}
+	    				\includegraphics[
+		    				width=\linewidth
+	    				]{Resultados/Simulaciones/AirflowWithoutEvaporationSurface.png}
+	    				\caption{Flujo de aire dentro de la cámara de evaporación sin la superficie de evaporación}
+	    			\end{figure}
+		    \end{column}
+		    \begin{column}{0.5\linewidth}
+		    		\begin{figure}
+	    				\includegraphics[
+		    				width=\linewidth
+	    				]{Resultados/Simulaciones/AirflowWithEvaporationSurface.png}
+	    			\caption{Flujo de aire dentro de la cámara de evaporación con la superficie de evaporación}
+	    			\end{figure}
+		    \end{column}
+	    \end{columns}		
 	\end{frame}

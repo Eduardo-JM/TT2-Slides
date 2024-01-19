@@ -234,8 +234,8 @@
       \strng{authorbibnamehash}{d95626c6a297ff8ea122f9cccde16070}
       \strng{authornamehash}{f302901bbaccf55c217f6016b29b6a7a}
       \strng{authorfullhash}{d95626c6a297ff8ea122f9cccde16070}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{5}
@@ -264,51 +264,6 @@
       \verb https://www.sciencedirect.com/science/article/pii/S1359431121010747
       \endverb
       \keyw{Condensation process,Efficiency,Freshwater,Solar energy,Solar still}
-    \endentry
-    \entry{ramirez_intensificacion_2018}{article}{}
-      \name{author}{1}{}{%
-        {{hash=b82f3ef27a10888bb885ac07e7d1363d}{%
-           family={Ramírez},
-           familyi={R\bibinitperiod},
-           given={José\bibnamedelima Luís},
-           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \strng{namehash}{b82f3ef27a10888bb885ac07e7d1363d}
-      \strng{fullhash}{b82f3ef27a10888bb885ac07e7d1363d}
-      \strng{bibnamehash}{b82f3ef27a10888bb885ac07e7d1363d}
-      \strng{authorbibnamehash}{b82f3ef27a10888bb885ac07e7d1363d}
-      \strng{authornamehash}{b82f3ef27a10888bb885ac07e7d1363d}
-      \strng{authorfullhash}{b82f3ef27a10888bb885ac07e7d1363d}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{25}
-      \field{issn}{2619-6581}
-      \field{journaltitle}{Avances Investigación en Ingeniería}
-      \field{langid}{spanish}
-      \field{month}{12}
-      \field{note}{Number: 1}
-      \field{number}{1}
-      \field{title}{Intensificación de la transferencia de calor en ebullición convectiva}
-      \field{urlday}{4}
-      \field{urlmonth}{3}
-      \field{urlyear}{2022}
-      \field{volume}{15}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{86\bibrangedash 102}
-      \range{pages}{17}
-      \verb{doi}
-      \verb 10.18041/1794-4953/avances.1.1327
-      \endverb
-      \verb{urlraw}
-      \verb https://revistas.unilibre.edu.co/index.php/avances/article/view/1327
-      \endverb
-      \verb{url}
-      \verb https://revistas.unilibre.edu.co/index.php/avances/article/view/1327
-      \endverb
     \endentry
   \enddatalist
 \endrefsection

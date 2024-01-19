@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.8.1)  11 JAN 2024 14:36
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.8.1)  18 JAN 2024 22:25
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2608,6 +2608,11 @@ Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
 [3
 
+]
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+[4
+
 ]) (./build/Presentacion.toc
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
@@ -2618,9 +2623,27 @@ LaTeX Info: Redefining \% on input line 2.
 )
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[4
+[5
 
-] (./Content/Planteamiento-del-problema.tex
+] (./Content/Introducción.tex
+File: ./Figures//destilador-solar.jpg Graphic file (type bmp)
+<./Figures//destilador-solar.jpg>
+File: ./Figures//aristoteles.png Graphic file (type bmp)
+<./Figures//aristoteles.png>
+
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+[6
+
+]
+File: ./Figures//cero-emisiones-netas.png Graphic file (type bmp)
+<./Figures//cero-emisiones-netas.png>
+
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+[7
+
+]) (./Content/Planteamiento-del-problema.tex
 File: ./Figures//Relevancia/enfermedades.png Graphic file (type bmp)
 <./Figures//Relevancia/enfermedades.png>
 File: ./Figures//Relevancia/ecosistemas.png Graphic file (type bmp)
@@ -2632,13 +2655,22 @@ File: ./Figures//Relevancia/conflictos.png Graphic file (type bmp)
 
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[5
+[8
+
+]
+File: ./Figures//indice-estres-evaporativo.jpg Graphic file (type bmp)
+<./Figures//indice-estres-evaporativo.jpg>
+
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+[9
 
 ]
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 96.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 131.
 LaTeX Font Info:    Font shape `TU/lmss/bx/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/bx/sl' tried instead on input line 96.
+(Font)              Font shape `TU/lmss/bx/sl' tried instead on input line 131.
+
 File: ./Figures//ONU.png Graphic file (type bmp)
 <./Figures//ONU.png>
 File: ./Figures//ods.png Graphic file (type bmp)
@@ -2646,32 +2678,22 @@ File: ./Figures//ods.png Graphic file (type bmp)
 
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[6
-
-]) (./Content/Justificación.tex
-File: ./Figures//indice-estres-evaporativo.jpg Graphic file (type bmp)
-<./Figures//indice-estres-evaporativo.jpg>
-File: ./Figures//sequia2020.PNG Graphic file (type bmp)
-<./Figures//sequia2020.PNG>
-
-Missing character: There is no 2 ("32) in font nullfont!
-Missing character: There is no 8 ("38) in font nullfont!
-[7
+[10
 
 ]) (./Content/Objetivos.tex
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[8
+[11
 
 ]
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[9
+[12
 
 ]
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[10
+[13
 
 ]) (./Content/Antecedentes.tex
 File: ./Figures//destilador-palomino.png Graphic file (type bmp)
@@ -2689,7 +2711,7 @@ Missing character: There is no 8 ("38) in font nullfont!
 Overfull \vbox (11.76506pt too high) detected at line 16
  []
 
-[11
+[14
 
 ]
 File: ./Figures//solar-wick-distiller.png Graphic file (type bmp)
@@ -2697,7 +2719,7 @@ File: ./Figures//solar-wick-distiller.png Graphic file (type bmp)
 
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[12
+[15
 
 ]
 File: ./Figures//Desarrollo/condensación.jpg Graphic file (type bmp)
@@ -2707,43 +2729,15 @@ File: ./Figures//Desarrollo/intermitencia.png Graphic file (type bmp)
 
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[13
+[16
 
 ]) (./Content/Diseño-experimental.tex
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-> Step: build the whole table.
-
-Missing character: There is no 2 ("32) in font nullfont!
-Missing character: There is no 8 ("38) in font nullfont!
-[14
-
-]
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-> Step: build the whole table.
-
-Missing character: There is no 2 ("32) in font nullfont!
-Missing character: There is no 8 ("38) in font nullfont!
-[15
-
-]
 File: ./Figures//Resultados/Sistema/VistaGeneral.png Graphic file (type bmp)
 <./Figures//Resultados/Sistema/VistaGeneral.png>
 
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[16
+[17
 
 ]
 File: ./Figures//Resultados/Sistema/WaterModule.png Graphic file (type bmp)
@@ -2751,7 +2745,7 @@ File: ./Figures//Resultados/Sistema/WaterModule.png Graphic file (type bmp)
 
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[17
+[18
 
 ]
 File: ./Figures//Resultados/Sistema/WaterModuleComponents.png Graphic file (typ
@@ -2760,7 +2754,7 @@ e bmp)
 
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[18
+[19
 
 ]
 File: ./Figures//Resultados/Sistema/SolarModule.png Graphic file (type bmp)
@@ -2768,7 +2762,7 @@ File: ./Figures//Resultados/Sistema/SolarModule.png Graphic file (type bmp)
 
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[19
+[20
 
 ]
 File: ./Figures//Resultados/Simulaciones/50WCopper15C9mlpm.png Graphic file (ty
@@ -2780,7 +2774,7 @@ ile (type bmp)
 
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[20
+[21
 
 ]
 File: ./Figures//Resultados/Simulaciones/FuzzyUniverse.png Graphic file (type b
@@ -2789,7 +2783,19 @@ mp)
 
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[21
+[22
+
+]
+File: ./Figures//Resultados/Simulaciones/AirflowWithoutEvaporationSurface.png G
+raphic file (type bmp)
+<./Figures//Resultados/Simulaciones/AirflowWithoutEvaporationSurface.png>
+File: ./Figures//Resultados/Simulaciones/AirflowWithEvaporationSurface.png Grap
+hic file (type bmp)
+<./Figures//Resultados/Simulaciones/AirflowWithEvaporationSurface.png>
+
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+[23
 
 ]) (./Content/Resultados.tex
 File: ./Figures//Resultados/Control/Arduino.png Graphic file (type bmp)
@@ -2799,7 +2805,7 @@ File: ./Figures//Resultados/Control/CPP.png Graphic file (type bmp)
 
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[22
+[24
 
 ]
 File: ./Figures//Resultados/Control/ClassDiagram.png Graphic file (type bmp)
@@ -2808,15 +2814,95 @@ File: ./Figures//Resultados/Control/ClassDiagram.png Graphic file (type bmp)
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
 
-Overfull \vbox (61.1796pt too high) detected at line 43
+Overfull \vbox (0.80986pt too high) detected at line 43
  []
 
-[23
+[25
 
-])
+]
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 8 ("38) in font nullfont!
-[24
+[26
+
+]
+File: ./Figures//Resultados/Control/SeawaterTemperature.png Graphic file (type 
+bmp)
+<./Figures//Resultados/Control/SeawaterTemperature.png>
+File: ./Figures//Resultados/Control/SolarReceiverTemperature.png Graphic file (
+type bmp)
+<./Figures//Resultados/Control/SolarReceiverTemperature.png>
+
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+[27
+
+]
+File: ./Figures//Resultados/Control/FlowVelocity.png Graphic file (type bmp)
+<./Figures//Resultados/Control/FlowVelocity.png>
+
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+[28
+
+]
+File: ./Figures//Resultados/Construcción/SolarModule.jpeg Graphic file (type bm
+p)
+<./Figures//Resultados/Construcción/SolarModule.jpeg>
+File: ./Figures//Resultados/Construcción/WaterModule.png Graphic file (type bmp
+)
+<./Figures//Resultados/Construcción/WaterModule.png>
+
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+[29
+
+]
+File: ./Figures//Resultados/Construcción/Completo.jpeg Graphic file (type bmp)
+<./Figures//Resultados/Construcción/Completo.jpeg>
+File: ./Figures//Resultados/Discusión/Alineación.jpeg Graphic file (type bmp)
+<./Figures//Resultados/Discusión/Alineación.jpeg>
+
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+
+Overfull \vbox (14.81178pt too high) detected at line 164
+ []
+
+[30
+
+]
+File: ./Figures//Resultados/Discusión/Ejecución.jpeg Graphic file (type bmp)
+<./Figures//Resultados/Discusión/Ejecución.jpeg>
+
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+
+Overfull \vbox (14.81178pt too high) detected at line 191
+ []
+
+[31
+
+]
+File: ./Figures//Resultados/Discusión/RecibidorQuemado.jpeg Graphic file (type 
+bmp)
+<./Figures//Resultados/Discusión/RecibidorQuemado.jpeg>
+File: ./Figures//Resultados/Discusión/VasoPrecipitadosFinal.jpeg Graphic file (
+type bmp)
+<./Figures//Resultados/Discusión/VasoPrecipitadosFinal.jpeg>
+
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+[32
+
+]
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+[33
+
+]) (./Content/Recapitulación.tex)
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+[34
 
 ]
 \tf@nav=\write13
@@ -2845,19 +2931,27 @@ LaTeX Info: Redefining \sptext on input line 35.
 LaTeX Info: Redefining \. on input line 35.
 LaTeX Info: Redefining \% on input line 35.
 )
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `Presentacion.out' has not changed.
-(rerunfilecheck)             Checksum: 08AABF5FB6E8D49BF6553729A8B93778;1284.
+(rerunfilecheck)             Checksum: 082CFA84A9E70CC942A526C8A45BCDF2;1440.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Presentacion
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'Presentacion.run.xml'.
 \openout1 = `Presentacion.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 77600 strings out of 475865
- 1860545 string characters out of 5802057
- 2754748 words of memory out of 5000000
- 97374 multiletter control sequences out of 15000+600000
- 480920 words of font info for 98 fonts, out of 8000000 for 9000
+ 77637 strings out of 475865
+ 1863649 string characters out of 5802057
+ 2751349 words of memory out of 5000000
+ 97392 multiletter control sequences out of 15000+600000
+ 478838 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 128i,13n,126p,1671b,5605s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,13n,124p,1671b,5605s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on ./build/Presentacion.pdf (24 pages).
+Output written on ./build/Presentacion.pdf (34 pages).

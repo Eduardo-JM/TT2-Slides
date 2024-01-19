@@ -1,10 +1,12 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
-\beamer@sectionintoc {1}{Relevancia del proyecto}{5}{0}{1}
-\beamer@sectionintoc {2}{Objetivos}{8}{0}{2}
-\beamer@sectionintoc {3}{Antecedentes}{11}{0}{3}
-\beamer@subsectionintoc {3}{1}{Problemas asociados a la destilación solar}{13}{0}{3}
-\beamer@sectionintoc {4}{Diseño-experimental}{14}{0}{4}
-\beamer@subsectionintoc {4}{1}{Grupos de estudio}{14}{0}{4}
-\beamer@subsectionintoc {4}{2}{Propuesta de diseño}{16}{0}{4}
-\beamer@sectionintoc {5}{Resultados}{22}{0}{5}
+\beamer@sectionintoc {1}{Introducción}{6}{0}{1}
+\beamer@sectionintoc {2}{Relevancia del proyecto}{8}{0}{2}
+\beamer@sectionintoc {3}{Objetivos}{11}{0}{3}
+\beamer@sectionintoc {4}{Antecedentes}{14}{0}{4}
+\beamer@subsectionintoc {4}{1}{Problemas asociados a la destilación solar}{16}{0}{4}
+\beamer@sectionintoc {5}{Solución planteada}{17}{0}{5}
+\beamer@subsectionintoc {5}{1}{Propuesta de diseño}{17}{0}{5}
+\beamer@sectionintoc {6}{Resultados}{24}{0}{6}
+\beamer@subsectionintoc {6}{1}{Construcción}{29}{0}{6}
+\beamer@sectionintoc {7}{Resumen}{34}{0}{7}
